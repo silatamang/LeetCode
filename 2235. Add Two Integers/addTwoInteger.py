@@ -24,8 +24,11 @@ print(Solution.Sum(1, 2))
 # To make it a true static method (no self, callable on class directly), use @staticmethod
 class Solution:
     @staticmethod
-    def Sum(num1: int, num2: int) -> int:
+    def Sum(num1, num2):
         return num1 + num2
-
-print(Solution.Sum(1, 2)) 
+        
+# With @staticmethod, you can call it both from the class and from an instance
+sol = Solution()
+print(Solution.Sum(1, 2))  
+print(sol.Sum(1, 2))
         
