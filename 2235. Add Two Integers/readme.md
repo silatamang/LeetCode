@@ -1,5 +1,5 @@
 # 🧮 2235. Add Two Integers — *Easy*
-You can view the problem on [LeetCode here](https://leetcode.com/problems/add-two-integers/description/).
+You can view the problem on <a href="https://leetcode.com/problems/add-two-integers/description/" target="_blank"> LeetCode here </a>
 
 ##  Problem Statement
 
