@@ -1,3 +1,7 @@
+/*
+Time Complexity - O(n) - Linear Time
+Space Complexity - O(n) - Linear Space
+*/
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
     var map = new Dictionary<int, int>(nums.Length);
