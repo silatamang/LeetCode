@@ -1,3 +1,7 @@
+/*
+Time Complexity - O(n) - Linear Time
+Space Complexity - O(1) - Constant Space
+*/
 public class Solution {
     public bool ContainsDuplicate(int[] nums) {
       var set = new HashSet<int>(nums.Length);
