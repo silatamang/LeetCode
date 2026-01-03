@@ -1,4 +1,4 @@
-# 🧮 1. Two Sum — Easy
+# 1. Two Sum — Easy
 
 You can view the problem on [LeetCode here](https://leetcode.com/problems/two-sum/description/).
 
