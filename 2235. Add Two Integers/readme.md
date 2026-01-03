@@ -1,4 +1,4 @@
-# 🧮 2235. Add Two Integers — *Easy*
+# 2235. Add Two Integers — *Easy*
 You can view the problem on [LeetCode here](https://leetcode.com/problems/add-two-integers/description/).
 
 ##  Problem Statement
