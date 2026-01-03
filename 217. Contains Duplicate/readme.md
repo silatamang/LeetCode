@@ -1,4 +1,4 @@
-# 🧮 217. Contains Duplicate — Easy  
+# 217. Contains Duplicate — Easy  
 
 You can view the problem on [LeetCode here](https://leetcode.com/problems/contains-duplicate/).
 
