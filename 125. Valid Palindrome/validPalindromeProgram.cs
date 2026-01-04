@@ -1,3 +1,5 @@
+//Program uses the concept of Two pointer in place
+
 string s = "A man, a plan, a canal: Panama";
 var result = Solution.IsPalindrome(s);
 System.Console.WriteLine(result);
